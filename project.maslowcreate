@@ -6,9 +6,39 @@
             "x": 0,
             "y": 0,
             "uniqueID": 478992,
-            "ioValues": [],
+            "ioValues": [
+                {
+                    "name": "Length",
+                    "ioValue": 50.8
+                }
+            ],
             "topLevel": true,
             "allAtoms": [
+                {
+                    "atomType": "Input",
+                    "name": "Length",
+                    "x": 59,
+                    "y": 71,
+                    "uniqueID": 308800,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 223,
+                    "y": 185,
+                    "uniqueID": 162487,
+                    "ioValues": [
+                        {
+                            "name": "radius",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "max segment size",
+                            "ioValue": 1
+                        }
+                    ]
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
