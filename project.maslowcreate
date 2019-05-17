@@ -31,7 +31,7 @@
                     "ioValues": [
                         {
                             "name": "radius",
-                            "ioValue": 22.25
+                            "ioValue": 9.525
                         },
                         {
                             "name": "max segment size",
